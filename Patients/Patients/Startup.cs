@@ -12,6 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Patients.Controllers.Model;
 using Microsoft.EntityFrameworkCore;
+using Patients.Services;
 
 namespace Patients
 {
@@ -28,6 +29,8 @@ namespace Patients
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddScoped<ServiceBusSender>();
 
             services.AddDbContext<DpDataContext>(options =>
             {

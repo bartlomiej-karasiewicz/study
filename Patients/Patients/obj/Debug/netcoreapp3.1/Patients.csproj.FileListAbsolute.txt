@@ -26,8 +26,6 @@ C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\System
 C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.csprojAssemblyReference.cache
 C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.csproj.CopyComplete
-C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.csproj.CoreCompileInputs.cache
-C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\Patients.deps.json
 C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\Patients.runtimeconfig.json
 C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\Patients.runtimeconfig.dev.json
@@ -58,3 +56,10 @@ C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\runtim
 C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.dll
 C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.pdb
 C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.genruntimeconfig.cache
+C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.csproj.CoreCompileInputs.cache
+C:\Users\Bartekk\Desktop\dotNet\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.MvcApplicationPartsAssemblyInfo.cache
